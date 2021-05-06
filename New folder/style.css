@@ -1,0 +1,6 @@
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row-reverse;
+    font-size: larger;
+}
